@@ -22,6 +22,9 @@ Peak spending months: August (Chennai, Hyderabad) and September (other cities).
 
 21–24 age group shows potential but is underrepresented.
 
+Dashboard Preview
+![Dashboard Preview](Sample_Img.png)
+
 📊 Tools & Technologies
 Power BI: Data cleaning, modeling, and visualization
 
